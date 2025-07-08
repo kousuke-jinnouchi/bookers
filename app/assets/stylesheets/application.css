@@ -44,3 +44,8 @@
  input, textarea {
   margin-bottom: 10px;
  }
+
+ .flash {
+  color: green;
+  margin: 33px;
+ }
