@@ -25,10 +25,22 @@
   color: black;
  }
 
+ a:visited {
+  color: #666666;
+ }
+
+ p {
+  margin: 33px;
+ }
+
  th {
   padding-bottom: 5px;
  }
  
  td {
-  padding: 0 5px 7px 5px;
+  padding: 1px 5px 7px;
+ }
+
+ input, textarea {
+  margin-bottom: 10px;
  }
